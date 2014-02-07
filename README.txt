@@ -1,3 +1,8 @@
+Core collaborators on this project include:
+
+* Matthew
+* Brent
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
